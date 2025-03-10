@@ -33,7 +33,6 @@ ENV/
 
 # 项目特定文件
 *.docx
-resource/
 *.log
 
 # 系统文件

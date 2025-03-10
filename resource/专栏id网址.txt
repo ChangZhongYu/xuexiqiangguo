@@ -1,0 +1,7 @@
+专栏ID清单
+https://www.xuexi.cn/lgdata/channel-list.json
+专栏文章ID清单
+https://www.xuexi.cn/lgdata/u9l6qkucn4.json
+
+专栏网址列表
+https://www.xuexi.cn/lgdata/skeleton.json
